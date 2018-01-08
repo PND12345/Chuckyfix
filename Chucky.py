@@ -42,7 +42,7 @@ print "Kr-Login Success\n"
 
 km = LINETCR.LINE()
 #km.login(qr=True)
-km.login(token='TOKEN_KAMU_DISINI_BEIB')
+km.login(token="EoQOz50XhucdlRFrfxha.HIB20klF6BX806YrJ/vskG.hw1XzfI1AI/3ijpXD2eiS+HIJ7wP7XdOTS7WWGwTSHs=")
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses All Login]====="
 
