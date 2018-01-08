@@ -36,7 +36,7 @@ print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
-kr.login(token='TOKEN_KAMU_DISINI_BEIB')
+kr.login(token="EoA1U9skjKamUo1bE8Tc.Ykxc5DBfa9g21Gq4yfaXFa.lfqiXCYbTgc9mDZkX0nIoMJApxmS1Vyd9kkpBEO/2Vc=")
 kr.loginResult()
 print "Kr-Login Success\n"
 
