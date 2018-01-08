@@ -18,7 +18,7 @@ print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='TOKEN_KAMU_DISINI_BEIB')
+ki.login(token="EooEBCqdkWclcTyG5Tq3.oUD7RBsOn7D8kL1ZVW6QqW.UpZwt1WUEwssgsLc3qgQyjlIYNUqG1YCx2jxPKYRZoA=")
 ki.loginResult()
 print "Ki-Login Success\n"
 
